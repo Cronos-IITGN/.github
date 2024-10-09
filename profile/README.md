@@ -11,13 +11,35 @@
 </pre>
 </div>
 
-## ABOUT
-We are the systems club of IIT Gandhinagar. We comprise of students who are enthusiastic about systems and we take up multiple projects spanning multiple domains like distributed systems, parallel programming, computer networks, peer to peer computes and many more. Please look into the Projects section for the same.
-## MEMBERS
-## PROJECTS
-| Project Name      | Description                   | Contributors                                                                                 | Stats                                       |
-|-------------------|-------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| Extended Screen    | Description        | ![Contributors](https://contrib.rocks/image?repo=x0-IITGN/extended-screen)                    | ![Last Commit](https://img.shields.io/github/last-commit/x0-IITGN/extended-screen) ![Commit Acttivity](https://img.shields.io/github/commit-activity/m/x0-IITGN/extended-screen) |
-| Local Search Engine    | Description      | ![Contributors](https://contrib.rocks/image?repo=x0-IITGN/local-search-engine)                    | ![Last Commit](https://img.shields.io/github/last-commit/x0-IITGN/local-search-engine) ![Commit Activity](https://img.shields.io/github/commit-activity/m/x0-IITGN/local-search-engine) |
+## ABOUT US
+Welcome to the Systems Club of IIT Gandhinagar! We are a community of passionate students dedicated to exploring the vast field of systems. Our members engage in a variety of projects across different domains, including:
 
-## SOME RULES
+- **Distributed Systems**
+- **Parallel Programming**
+- **Computer Networks**
+- **Peer-to-Peer Computing**
+- **And many more!**
+
+Explore the **Projects** section below to see what we're working on!
+
+---
+
+## PROJECTS
+| Project Name          | Description                  | Contributors                                                                                | Stats                                         |
+|-----------------------|------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------|
+| ![Extended Screen](https://github.com/x0-IITGN/extended-screen)       | *Project description here*   | ![Contributors](https://contrib.rocks/image?repo=x0-IITGN/extended-screen)                  | ![Last Commit](https://img.shields.io/github/last-commit/x0-IITGN/extended-screen) ![Commit Activity](https://img.shields.io/github/commit-activity/m/x0-IITGN/extended-screen) |
+| ![Local Search Engine](https://github.com/x0-IITGN/local-search-engine)   | *Project description here*   | ![Contributors](https://contrib.rocks/image?repo=x0-IITGN/local-search-engine)              | ![Last Commit](https://img.shields.io/github/last-commit/x0-IITGN/local-search-engine) ![Commit Activity](https://img.shields.io/github/commit-activity/m/x0-IITGN/local-search-engine) |
+
+---
+
+## ORGANIZATION RULES
+
+1. **Be Active**: We encourage everyone to be active. Constantly update the 
+2. **Update README**: Frequently update your project READMEs and this README whenever necessary.
+3. **Contribute Always**: Even non project members can raise issues and contribute
+---
+
+## MEMBERS
+Meet our talented members who contribute their skills and enthusiasm to our projects ![here](https://github.com/orgs/x0-IITGN/people)
+
+---
