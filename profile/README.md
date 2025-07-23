@@ -1,12 +1,19 @@
 <div align="center">
 
 <pre>
-██╗  ██╗ ██████╗               ██╗██╗████████╗ ██████╗ ███╗   ██╗
-╚██╗██╔╝██╔═████╗              ██║██║╚══██╔══╝██╔════╝ ████╗  ██║
- ╚███╔╝ ██║██╔██║    █████╗    ██║██║   ██║   ██║  ███╗██╔██╗ ██║
- ██╔██╗ ████╔╝██║    ╚════╝    ██║██║   ██║   ██║   ██║██║╚██╗██║
-██╔╝ ██╗╚██████╔╝              ██║██║   ██║   ╚██████╔╝██║ ╚████║
-╚═╝  ╚═╝ ╚═════╝               ╚═╝╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═══╝
+  ██████╗ ██████╗  ██████╗ ███╗   ██╗ ██████╗ ███████╗
+██╔════╝ ██╔══██╗██╔═══██╗████╗  ██║██╔═══██╗██╔════╝
+██║     ╗██████╔╝██║   ██║██╔██╗ ██║██║   ██║███████╗
+██║   ██║██╔══██╗██║   ██║██║╚██╗██║██║   ██║╚════██║
+╚██████╔╝██║  ██║╚██████╔╝██║ ╚████║╚██████╔╝███████║
+ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
+
+                 ██╗██╗████████╗ ██████╗ ███╗   ██╗
+                 ██║██║╚══██╔══╝██╔════╝ ████╗  ██║
+                 ██║██║   ██║   ██║  ███╗██╔██╗ ██║
+                 ██║██║   ██║   ██║   ██║██║╚██╗██║
+                 ██║██║   ██║   ╚██████╔╝██║ ╚████║
+                 ╚═╝╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═══╝
                                                                  
 </pre>
 </div>
@@ -14,10 +21,17 @@
 ## ABOUT US
 Welcome to the Systems Club of IIT Gandhinagar! We are a community of passionate students dedicated to exploring the vast field of systems. Our members engage in a variety of projects across different domains, including:
 
-- **Distributed Systems**
-- **Parallel Programming**
-- **Computer Networks**
-- **Peer-to-Peer Computing**
+- **Operating Systems**  
+- **Distributed Systems**  
+- **Parallel and Concurrent Programming**  
+- **Computer Networks & Protocol Design**  
+- **Cloud Infrastructure & Architecture**  
+- **Containerization & Orchestration (Docker, Kubernetes)**  
+- **Peer-to-Peer and Edge Computing**  
+- **Systems Security & Virtualization**  
+- **Compiler Design & Low-Level Programming**  
+- **High-Performance Computing (HPC)**  
+- **DevOps and CI/CD Pipelines**  
 - **And many more!**
 
 Explore the **Projects** section below to see what we're working on!
